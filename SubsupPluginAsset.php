@@ -19,7 +19,7 @@ class SubsupPluginAsset extends AssetBundle
     public $sourcePath = '@vendor/insolita/imperavi-plugins/js';
     public $js
         = [
-            'subsup.js'
+            'subsup/subsup.js'
         ];
     public $depends
         = [

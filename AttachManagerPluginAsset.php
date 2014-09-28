@@ -19,7 +19,7 @@ class AttachManagerPluginAsset extends AssetBundle
     public $sourcePath = '@vendor/insolita/imperavi-plugins/js';
     public $js
         = [
-            'attachmanager.js'
+            'attachmanager/attachmanager.js'
         ];
     public $depends
         = [

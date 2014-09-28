@@ -19,7 +19,7 @@ class FaiconsPluginAsset extends AssetBundle
     public $sourcePath = '@vendor/insolita/imperavi-plugins/js';
     public $js
         = [
-            'faicons.js'
+            'faicons/faicons.js'
         ];
     public $depends
         = [
