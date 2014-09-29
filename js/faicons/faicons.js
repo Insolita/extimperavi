@@ -124,5 +124,4 @@ RedactorPlugins.faicons ={
 		this.insertHtmlAdvanced(ins, true);
 		this.modalClose();
 	}
-
 };
