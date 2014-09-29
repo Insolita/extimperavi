@@ -1,5 +1,5 @@
 {
-    "name": "insolita/imperavi-plugins",
+    "name": "insolita/extimperavi",
     "description": "...",
     "type": "yii2-extension",
     "keywords": ["yii2","extension"," imperavi"," redactorjs"],
