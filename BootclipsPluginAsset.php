@@ -19,7 +19,7 @@ class BootclipsPluginAsset extends AssetBundle
     public $sourcePath = '@vendor/insolita/imperavi-plugins/js';
     public $js
         = [
-            'bootclips.js'
+            'bootclips/bootclips.js'
         ];
     public $depends
         = [

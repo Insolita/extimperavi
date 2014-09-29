@@ -19,7 +19,7 @@ class AnypagePluginAsset extends AssetBundle
     public $sourcePath = '@vendor/insolita/imperavi-plugins/js';
     public $js
         = [
-            'anypagemodal.js'
+            'anypagemodal/anypagemodal.js'
         ];
     public $depends
         = [

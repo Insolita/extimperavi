@@ -21,7 +21,6 @@ RedactorPlugins.subsup ={
 			this.buttonAdd('sups', this.opts.curLang.supname, this.txtSup);
 			this.buttonAwesome('subs', 'fa-subscript');
 			this.buttonAwesome('sups', 'fa-superscript');
-			console.log(this.opts.curLang.subname);
 		},
 		txtSub: function()
 		{
