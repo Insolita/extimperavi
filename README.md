@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist insolita/imperavi-plugins "*"
+php composer.phar require --prefer-dist insolita/extimperavi "*"
 ```
 
 or add
 
 ```
-"insolita/imperavi-plugins": "*"
+"insolita/extimperavi": "*"
 ```
 
 to the require section of your `composer.json` file.
