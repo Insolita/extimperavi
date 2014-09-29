@@ -16,7 +16,7 @@ class FaiconsPluginAsset extends AssetBundle
     /**
      * @inheritdoc
      */
-    public $sourcePath = '@vendor/insolita/imperavi-plugins/js';
+    public $sourcePath = '@vendor/insolita/extimperavi/js';
     public $js
         = [
             'faicons/faicons.js'
